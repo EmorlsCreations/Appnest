@@ -1,11 +1,11 @@
-# AppGroups
-If you have lots of exe files you need to organize, you can use AppGroups to organize them!
+# Appnest
+If you have lots of exe files you need to organize, you can use Appnest to organize them!
 
 # What It Does
-An AppGroup allows you to group most exe's into a list which you can open and look at from the AppGroup exe. Here is how to use it:
+Appnest allows you to group multiple exe's together for organization. Here is how to use it:
 
 1. Download and extract the zip file
-2. open the txt file in "AppGroup/apps/apps.txt"
-3. Gather all of the exe paths and put them in the txt folder
-4. Go to the AppGroup.exe in the AppGroup folder and make a shortcut for it
-5. Drag the shortcut onto the desktop
+2. Create shortcut of Appnest exe and drag to desktop
+3. Open Appnest
+4. Add any amount of exe's'
+5. Enjoy!
